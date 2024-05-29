@@ -1,0 +1,3 @@
+
+INSERT INTO role_entity (ID, NAME) VALUES (1, 'ROLE_USER');
+INSERT INTO role_entity (ID, NAME) VALUES (2, 'ROLE_ADMIN');
